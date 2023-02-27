@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background: url("./img/background.jpg.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h2{
+    color: rgb(48, 222, 0, 1);
+    text-align: center;
+}
+
+h3{
+
+}
+.tres-botones{
+    display: none;
+}
+.content {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    position:relative;
+    padding:50px;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.logo {
+    width:100%;
+    text-align: center;
+}
+
+.logo > img {
+    width: 200px;
+}
+
+.options {
+    background-color: rgb(48, 222, 0, 1);
+    height: 40px;
+    text-align: center;
+   padding: 0.5rem;
+}
+.rectangulo {
+    width: 20%;
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgb(253, 233, 53);
+  }
+  .rectangulo2 {
+    width: 50%;
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgb(76, 243, 54);
+  }
+  .rectangulo3 {
+    width: 10%;
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgba(235, 37, 30, 0.719);
+  }
+.mono{
+    color: white;
+}
+.mono2{
+    color: white;
+
+}
+.mono3{
+    color: white;
+}
+.lima{
+    background-color: transparent;
+}
+.monop1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.flecha{
+display: flex;
+flex-direction: column;
+}
